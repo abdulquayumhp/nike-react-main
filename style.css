@@ -7,8 +7,15 @@
 .image-footer {
   width: 100px;
 }
-@media (max-width: 400px) {
+.icon-bg {
+  background: rgba(56, 54, 54, 0.534);
+}
+@media (max-width: 500px) {
   .logo-image {
     width: 200px;
+  }
+  .footer-box {
+    flex-direction: column;
+    text-align: center;
   }
 }
