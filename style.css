@@ -1,0 +1,14 @@
+.logo-image {
+  width: 300px;
+}
+.home-bg-color {
+  background: #fff9f4;
+}
+.image-footer {
+  width: 100px;
+}
+@media (max-width: 400px) {
+  .logo-image {
+    width: 200px;
+  }
+}
